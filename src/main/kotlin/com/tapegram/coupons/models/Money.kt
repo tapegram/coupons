@@ -1,4 +1,4 @@
-package com.tapegram.coupons
+package com.tapegram.coupons.models
 
 import java.util.Currency
 

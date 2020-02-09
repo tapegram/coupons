@@ -1,4 +1,4 @@
-package com.tapegram.coupons
+package com.tapegram.coupons.models
 
 data class Cart(
     val items: List<Item>,
